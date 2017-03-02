@@ -167,6 +167,7 @@ return [
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
+        Recca0120\LaravelTracy\ServiceProvider::class,
 
         /*
          * Application Service Providers...
